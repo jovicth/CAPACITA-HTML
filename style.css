@@ -1,0 +1,65 @@
+body {
+    background-color:rgb(134, 127, 127);
+    color: blue; 
+    border: 10px solid brown;
+    margin: 20px;
+    font: 1.2em / 1.2 Times, Helvetica, sans-serif;
+  }
+
+
+  
+
+
+
+  ul {
+    margin: 0px;
+    padding: 0;
+      display: flex;
+      justify-content: space-between;
+    list-style-type: none;
+    overflow: hidden;
+    border: 10px solid #ffffff;
+    background-color: #f3f3f3;
+    
+  }
+
+ img {width: 100px;
+height: 100px;
+justify-content: center;
+flex-direction: row;
+align-items:center
+
+
+  }
+ 
+  
+  div {
+
+
+    background-image: linear-gradient(blue, yellow, purple);
+
+
+
+  }
+
+
+button:active { background-color: orange;
+
+
+
+
+
+}
+
+
+
+  
+  
+
+
+
+
+
+
+
+
